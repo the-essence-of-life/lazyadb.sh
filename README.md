@@ -18,6 +18,7 @@ Quickly,fast,powerful menu and so on.
 **Dependencies**
 - android-tools
 - nerdfonts
+
   You can download from here.
   `https://www.nerdfonts.com/`
 
