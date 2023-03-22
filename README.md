@@ -23,7 +23,7 @@ Quickly,fast,powerful menu and so on.
   `https://www.nerdfonts.com/`
 
 ```bash
-# Clone this repo,and hange this directory.
+# Clone this repo,and change this directory.
 git clone https://github.com/the-essence-of-life/lazyadb.sh
 cd lazyadb.sh
 
