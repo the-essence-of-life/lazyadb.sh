@@ -1,4 +1,5 @@
 # lazyadb.sh
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 <a href='https://postimg.cc/pm5M9xHB' target='_blank'><img src='https://i.postimg.cc/pm5M9xHB/IMG-20230322-213057.jpg' border='0' alt='IMG-20230322-213057'/></a>
 Quickly,fast,powerful menu and so on.
 
