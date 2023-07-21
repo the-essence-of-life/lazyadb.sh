@@ -6,7 +6,6 @@ Quickly,fast,powerful menu and so on.
 # Features
 - 🗒Use menu to exec the command.
 - 🏷Some kind icons,and clearly menus.
-- 📦Plugins support.
 - 💡Simpley to installer.
 - 🚥Useful and colorful.
 
@@ -17,11 +16,13 @@ Quickly,fast,powerful menu and so on.
 
 ## Setup
 **Dependencies**
-- android-tools
 - nerdfonts
 
   You can download from here.
   `https://www.nerdfonts.com/`
+
+- python3->dependencies:pip3
+- android-tools(adb)
 
 ```bash
 # Clone this repo,and change this directory.
@@ -29,6 +30,10 @@ git clone https://github.com/the-essence-of-life/lazyadb.sh
 cd lazyadb.sh
 
 # Then run two commands to init.
-chmod +x init.sh
-bash init.sh
+chmod +x init
+./init y
+###process
+# Install command(pacman,apt):pkg install
+# ........
+###
 ```

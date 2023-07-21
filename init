@@ -1,0 +1,13 @@
+#!/bin/bash
+
+case $1 in
+  y|Y)
+    read -p "Install command(pacman,apt):" package_command
+    $package_command android-tools
+    $package_command python3
+    pip3 install rich
+  ;;
+  n|N)
+    exit 0
+  ;;
+esac
